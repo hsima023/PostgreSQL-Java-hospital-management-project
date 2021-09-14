@@ -1,5 +1,7 @@
 # PostgreSQL-Java-hospital-management-project
 
+## Introduction
+
 In this project, my team and I create a model and build a hospital database management sytem using PostgreSQL. In the last phase, we implement PostgreSQL into the skeleton code in Java that is provided by the professor to construct a client application.
 
 This project is being done over Spring 2021 quarter.
