@@ -4,6 +4,16 @@ In this project, my team and I create a model and build a hospital database mana
 
 This project is being done over Spring 2021 quarter.
 
+## List of implemented functionalities:
+1. Add Doctor
+2. Add Patient
+3. Add Appointment
+4. Make an Appointment
+5. List appointments of a selected doctor
+6. List all available appoinments of a selected department
+7. List total number of different types of appointments per doctor
+8. Total number of patients per doctor with a certain status 
+
 ## How to initialize and stop PSQL environment
 Go to /code/postgresql/
 1. Execute the following command to initialize the PSQL environment.
